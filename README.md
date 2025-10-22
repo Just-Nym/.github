@@ -1,1 +1,1 @@
-Just Nym
+Readme Configuration for Project Nym Organization
