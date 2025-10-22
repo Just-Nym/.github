@@ -1,1 +1,1 @@
-# .github
+Just Nym
